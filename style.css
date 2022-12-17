@@ -1,6 +1,7 @@
+/""
 body {
   background: #CDB4DB
-  font-family: century gothic; arial;
+  font-family: century gothic, arial;
   font-size: 16px
   colour: #A2D2FF;
 }
@@ -18,7 +19,7 @@ P {
   font-size: 1cm;
   line-heigh: 1.4cm;
   colour: #FFAFCC;
-  font-family: Century gothic; arial;
+  font-family: Century gothic, arial;
 }
 
 #container {
@@ -34,3 +35,4 @@ section {
   border-top: 1px solid #50C0BE;
   padding: 20px 0 0;
 }
+""/
