@@ -1,8 +1,8 @@
 body {
-  background: #001328
-  font-family: century gothic;
+  background: #CDB4DB
+  font-family: century gothic; arial;
   font-size: 16px
-  colour: #CDB4DB;
+  colour: #A2D2FF;
 }
 
 #headshot img {
@@ -18,7 +18,7 @@ P {
   font-size: 1cm;
   line-heigh: 1.4cm;
   colour: #FFAFCC;
-  font-family: Century gothic;
+  font-family: Century gothic; arial;
 }
 
 #container {
