@@ -1,0 +1,36 @@
+body {
+  background: #001328
+  font-family: century gothic;
+  font-size: 16px
+  colour: #CDB4DB;
+}
+
+#headshot img {
+  width 200px
+  height 200px
+
+  #Snickers img {
+    width: 200px
+    height: 200px
+  }
+
+P {
+  font-size: 1cm;
+  line-heigh: 1.4cm;
+  colour: #FFAFCC;
+  font-family: Century gothic;
+}
+
+#container {
+  width: 90%;
+  max-with: 800px;
+  background: #A2D2FF;
+  margin: top right bottom left;
+  margin: 30px auto;
+  padding: 30px;
+}
+
+section {
+  border-top: 1px solid #50C0BE;
+  padding: 20px 0 0;
+}
